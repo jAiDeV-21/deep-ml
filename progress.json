@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:11:45.212Z",
+  "generated_at": "2026-09-22T06:18:45.708Z",
   "items": {
     "problem:248": {
       "kind": "problem",
@@ -13,6 +13,58 @@
       "last_pushed_at": "2026-09-22T06:11:41.958Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2025-04-16T14:19:40.290Z",
+      "last_pushed_at": "2025-04-16T14:19:40.290Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2025-04-16T14:45:09.326Z",
+      "last_pushed_at": "2025-04-16T14:45:09.326Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-04-16T14:51:47.480Z",
+      "last_pushed_at": "2025-04-16T14:51:47.480Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2025-04-16T14:57:17.684Z",
+      "last_pushed_at": "2025-04-16T14:57:17.684Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
