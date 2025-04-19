@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,9 +12,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-04-19 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-04-17 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-09-22 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-04-16 | [solution](problems/0083-dot-product-calculator) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-04-19 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-16 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-04-18 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-04-17 | [solution](problems/0003-reshape-matrix) |
