@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:18:51.665Z",
+  "generated_at": "2026-09-22T06:18:53.456Z",
   "items": {
     "problem:248": {
       "kind": "problem",
@@ -130,6 +130,32 @@
       "last_pushed_at": "2025-04-19T16:06:56.441Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-03-13T09:28:44.749Z",
+      "last_pushed_at": "2026-03-13T09:28:44.749Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-03-13T11:39:17.321Z",
+      "last_pushed_at": "2026-03-13T11:39:17.321Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
