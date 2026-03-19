@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:18:53.456Z",
+  "generated_at": "2026-09-22T06:18:55.108Z",
   "items": {
     "problem:248": {
       "kind": "problem",
@@ -156,6 +156,58 @@
       "last_pushed_at": "2026-03-13T11:39:17.321Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-03-19T12:35:44.303Z",
+      "last_pushed_at": "2026-03-19T12:35:44.303Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-03-19T12:39:29.661Z",
+      "last_pushed_at": "2026-03-19T12:39:29.661Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-03-19T15:16:15.185Z",
+      "last_pushed_at": "2026-03-19T15:16:15.185Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-03-19T16:08:54.430Z",
+      "last_pushed_at": "2026-03-19T16:08:54.430Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
