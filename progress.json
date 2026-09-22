@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:18:56.734Z",
+  "generated_at": "2026-09-22T06:21:41.418Z",
   "items": {
     "problem:248": {
       "kind": "problem",
@@ -220,6 +220,19 @@
       "first_solved_at": "2026-03-20T04:18:42.191Z",
       "last_pushed_at": "2026-03-20T04:18:42.191Z",
       "language": "python",
+      "lines": 2
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-09-22T06:21:41.028Z",
+      "last_pushed_at": "2026-09-22T06:21:41.028Z",
+      "language": "sql",
       "lines": 2
     }
   }
