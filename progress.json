@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:31:52.965Z",
+  "generated_at": "2026-09-23T09:46:47.867Z",
   "items": {
     "problem:248": {
       "kind": "problem",
@@ -260,6 +260,19 @@
       "last_pushed_at": "2026-09-23T09:31:53.328Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-09-23T09:46:47.941Z",
+      "last_pushed_at": "2026-09-23T09:46:47.941Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
